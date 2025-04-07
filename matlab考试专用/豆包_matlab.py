@@ -23,7 +23,7 @@ client = Ark(
     # 此为默认路径，您可根据业务所在地域进行配置
     base_url="https://ark.cn-beijing.volces.com/api/v3",
     # 从环境变量中获取您的 API Key
-    api_key="75ccb313-e851-40f5-aafc-3fb7ec85e11f"
+    api_key="你自己的key"
 )
 
 # 保存任务状态的字典
